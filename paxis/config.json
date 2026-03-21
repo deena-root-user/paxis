@@ -1,9 +1,0 @@
-{
-    "kali_server_url": "http://localhost:8080",
-    "kali_api_key": "",
-    "enable_kali_integration": true,
-    "mcp_server_url": "",
-    "mcp_api_key": "",
-    "enable_mcp_integration": false,
-    "enable_autonomous_mode": true
-}
