@@ -1,6 +1,6 @@
 # Paxis 🕷️
 
-Paxis is an elite, autonomous pentesting and bug-hunting agent designed and maintained by **IHA089**. 
+Paxis is an elite, autonomous pentesting and bug-hunting agent designed and maintained by **Deena Dayalan**. 
 
 Powered by local AI models (via Ollama) and a robust Python backend, Paxis acts as an intelligent, self-driving security tool. It doesn't just run static scans; it actively reasons, plans, executes commands, and learns from target environments using its "Deep Memory Target State."
 
